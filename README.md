@@ -121,9 +121,7 @@ Visit `http://localhost:3000` to see your local instance.
 
 Developed with a focus on **Software Craftsmanship** and **System Scalability**. If you're looking for a developer who understands modern full-stack architecture, let's connect!
 
-- **LinkedIn**: [Your Profile]
-- **Portfolio**: [Your Website]
-- **Email**: [Your Email]
+- **LinkedIn**: https://in.linkedin.com/in/harshit-lohar-97a653257
 
 ---
 
